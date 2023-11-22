@@ -5,3 +5,4 @@ Testando git log
 a
 b
 c
+d
