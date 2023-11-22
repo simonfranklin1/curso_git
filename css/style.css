@@ -5,3 +5,15 @@ h1 {
 .orangered {
     color: orangered;
 }
+
+button {
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #fff;
+    transition: .3s;
+}
+
+button:hover {
+    background-color: #dbdbdb;
+}
